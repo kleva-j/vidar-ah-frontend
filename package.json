@@ -37,7 +37,7 @@
   "homepage": "https://github.com/andela/vidar-ah-frontend#readme",
   "dependencies": {
     "autoprefixer": "^10.2.6",
-    "axios": "^0.18.0",
+    "axios": "^1.7.8",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.3.1",
     "enzyme-to-json": "^3.6.2",
